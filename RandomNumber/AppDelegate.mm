@@ -63,6 +63,10 @@
     [self SearchUser];
 //    m_pTimer = [NSTimer scheduledTimerWithTimeInterval:0.0f target:self selector:@selector(SearchDevice) userInfo:nil repeats:NO];
     
+    /*测试一下*/
+    NSLog(@"test");
+    
+    
     
     
 }
